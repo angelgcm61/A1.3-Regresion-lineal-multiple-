@@ -10,6 +10,6 @@ La base de datos A1.3 NASA cuenta con la siguiente información:
 - “presion”. Nivel escalado de presión sonora, en dB.
 
 Aqui los documentos para visualizar
-- [Reporte en formato html](./A1.3-Regresion-lineal-multiple.html)
-- [Reporte en formato ipynb](./A1.3-Regresion-lineal-multiple.ipynb)
-- [Base de datos](./A1.3-NASA.csv)
+- [Reporte en formato html](./A1.5-Solucion-de-problemas.html)
+- [Reporte en formato ipynb](./A1.5-Solucion-de-problemas.ipynb)
+- [Base de datos](./A1.5-Calificaciones.csv)
